@@ -231,5 +231,9 @@ return [
         'View' => Illuminate\Support\Facades\View::class,
 
     ],
-
+];
+return [
+    // ...
+    'log' => 'errorlog',
+    // ...
 ];
